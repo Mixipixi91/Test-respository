@@ -1,0 +1,113 @@
+#wrapper {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    font-family: "Outfit", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: hsl(30, 54%, 90%);
+    max-width:40%;
+    left: 30%;
+    right: 30%;
+    margin-top: 130px;
+    margin-bottom: 130px;
+}
+
+main {
+  width: 480px;
+  justify-content: center;
+  background-color:hsl(0, 0%, 100%);
+  border-radius: 20px;
+  padding: 25px;
+}
+
+img {
+    border-radius: 10px;
+}
+
+  li::marker {
+    color: hsl(14, 45%, 36%);
+  }
+
+
+#Preparation {
+  padding: 10px;
+  line-height: 1.5;
+  word-spacing: 5px;
+  text-indent: 20px;
+}
+  h2 {
+    font-family:"Young serif";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    padding: 2px;
+    color: hsl(24, 5%, 18%);
+    line-height: 0.5;
+  }
+
+  .easy {
+    font-size: 12px;
+    color: hsl(30, 10%, 34%);
+    line-height: 1.5;
+  }
+
+  h3 {
+    font-family: "Young serif";
+    font-weight: 600;
+    font-size: 20px;
+    font-kerning: auto;
+    font-style: normal;
+    color:hsl(14, 45%, 36%);
+    }
+
+  .div {
+    background-color: hsl(330, 100%, 98%)
+}
+
+#Info {
+  display: block;
+  border-bottom: none
+}
+
+article {
+  border-bottom: 1px solid hsl(30, 18%, 87%);
+  line-height: 1.8;
+}
+
+span {
+  display: block;
+  border-bottom: 1px solid hsl(30, 18%, 87%);
+  text-indent: 30px;
+  line-height: 35px;
+  font-size: 13px;
+}
+
+.values {
+  word-spacing: 1px;
+  color: hsl(30, 10%, 34%);
+}
+
+.Cal {
+word-spacing: 155px;
+}
+
+.Carb {
+  word-spacing: 170px;
+}
+
+.Pro {
+  word-spacing: 161px;
+}
+
+.Fat {
+word-spacing: 188px;
+}
+
+ul {
+  color: hsl(30, 10%, 34%);
+}
+
+ol {
+  color: hsl(30, 10%, 34%);
+}
